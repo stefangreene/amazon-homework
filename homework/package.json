@@ -1,0 +1,29 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "amazon homework exercise",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefangreene/amazon-homework.git"
+  },
+  "keywords": [
+    "amazon",
+    "mysql",
+    "database"
+  ],
+  "author": "Stefan Greene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefangreene/amazon-homework/issues"
+  },
+  "homepage": "https://github.com/stefangreene/amazon-homework#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "save": "^2.3.3"
+  }
+}
